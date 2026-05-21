@@ -7,3 +7,6 @@ Normalement, Vous aurez la dernière version de rage dans le précédent téléc
 # Ensuite aller sur 
 Vous avez besoin de télécharger [ScriptHook](http://www.dev-c.com/gtav/scripthookv/) et [Native Trainer](http://www.dev-c.com/gtav/nativetrainer/) qui se trouvent tout deux dans le [site officiel](http://www.dev-c.com/gtav/)
 En ce moment le *native trainer* se trouve dans le *téléchargement du scripthook*
+
+Pour les ajouts de plugins, comme les appels radio : 
+//*Les plugins de Albo ont tendance à faire crash le jeu*//
