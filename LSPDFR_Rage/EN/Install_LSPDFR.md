@@ -6,3 +6,6 @@ Usually, it will have the last rage hook (for GTA instance), if not go to [RAGE]
  
 You need to install [ScriptHook](http://www.dev-c.com/gtav/scripthookv/) and [Native Trainer](http://www.dev-c.com/gtav/nativetrainer/) into the [official website](http://www.dev-c.com/gtav/)
 At the moment *native trainer* is on the *scripthook download*
+
+For other plugins like radio call : 
+//*Albo plugins will crash the jeu*//
