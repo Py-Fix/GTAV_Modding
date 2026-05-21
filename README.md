@@ -6,3 +6,11 @@ You will find :
 - How to install LSPPFR (and GTAV instance)
 - Modding GTAV Files
 - ELS
+
+Ici, je vais vous aider à modder Grand Theft Auto V
+Ce dépôt est disponible en *Anglais* et en *Français*
+Vous aller trouver : 
+
+- Comment installer LSPPFR (et faire une instance GTAV)
+- Modder les fichiers de GTAV 
+- ELS
