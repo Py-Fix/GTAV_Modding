@@ -1,0 +1,13 @@
+CTRL + P = UAV
+J = Codes
+1 2 3 4 5 6 (top of the keyboard) = Sirens
+G = Sirens (sequential)
+) = Cruise
+^ = Takedowns (TKD)
+L = Secondaries
+
+Code 1 = Traffic advisor
+Code 2 = Traffic advisor + Cruise clignotants
+Code 3 = Cruise clignotants + Primaries
+Code 4 = Tout éteint
+To know which code is necessary check UAV or dialog box (maybe vocal too) (S1=Code 1, S2=Code2.... Rien=code4)

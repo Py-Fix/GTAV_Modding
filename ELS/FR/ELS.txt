@@ -1,0 +1,14 @@
+CTRL + P = UAV
+J = Codes
+1 2 3 4 5 6 (au dessus des lettres) = Sirènes (manuel)
+G = Sirènes (séquentiel)
+) = Cruise
+^ = Takedowns (TKD)
+L = Secondaries
+
+Code 1 = Traffic advisor
+Code 2 = Traffic advisor + Cruise clignotants
+Code 3 = Cruise clignotants + Primaries
+Code 4 = Tout éteint
+Pour savoir en quel code tu es tu regardes sur la console à côté de Main (S1=Code 1, S2=Code2.... Rien=code4)
+Vous pouvez aussi regarder l'UAV ou la boîte de dialogue (peut-être dans le son de l'appel du jeu (dispatcher)
