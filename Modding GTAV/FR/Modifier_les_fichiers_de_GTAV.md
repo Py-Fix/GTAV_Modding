@@ -18,3 +18,4 @@ Mais il manque un dernier truc : si on charge plus de fichiers, il faut un plus 
 On met le *heapadjuster* dans la racine du jeu
 
 Ensuite, pour ajouter des véhicules... vous passerez principalement par openIV mods > update > ...
+Pensez à lire les README des mods, pour vous donner les bons emplacements
